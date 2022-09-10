@@ -1,3 +1,7 @@
 [AWS Budget.txt](https://github.com/CyberGirlNaz/Using-AWS-Budgets-to-set-custom-budgets-to-track-cost-and-usage/files/9541437/AWS.Budget.txt)
 ![1](https://user-images.githubusercontent.com/112990296/189502902-52a3de29-cbd2-4235-b74b-01ba3e0dfea5.JPG)
-![Uploading 2.JPG…]()
+![2](https://user-images.githubusercontent.com/112990296/189503019-c70bc17e-0227-47ea-a23c-04e245f93fb6.JPG)
+![3](https://user-images.githubusercontent.com/112990296/189503029-a757a72f-02cf-49db-bdf0-115f188f8513.JPG)
+![4](https://user-images.githubusercontent.com/112990296/189503034-9bbdfdb4-01c4-44ac-a13f-516b3760580c.JPG)
+![5](https://user-images.githubusercontent.com/112990296/189503049-deb2d848-50d6-4273-a746-5e1a24f16c6a.JPG)
+![6](https://user-images.githubusercontent.com/112990296/189503054-5e81ea08-c990-4460-89c8-4aa2be38d0be.JPG)
