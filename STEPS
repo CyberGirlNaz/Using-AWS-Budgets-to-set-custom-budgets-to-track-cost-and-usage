@@ -1,0 +1,15 @@
+AWS Budget
+
+The first thing you want to do with any AWS account especially a new one is to set a budget.
+
+Steps:
+1) Open your AWS Console
+2) Go to AWS cost explorer.
+3) Go to create budget
+4) Select Cost budget
+5) Click on set budget
+6) Fill in the fields: name, start date, recurring, fixed amount, every service
+7) Click on configure threshold
+8) Set threshold based on actual cost and input alert threshold(a very low amount is advised)
+9) Add an email to receive the alerts
+10)Review and Click on create 
